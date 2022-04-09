@@ -4,18 +4,16 @@
 
 王瓅 a.k.a 鳳梨  
 
-## 目標
-- 降低南北資訊領域學習資源不均
-- 試圖在高中畢業前在路竹高中傳承資訊領域的學習
-- 反正就是那些看起來很像政治人物講的話(X
-## 掌握技能
+## Skills
 - MySQL
-- php / javascript / html / css
+- php / JS / html / css
 - C/C++
 - Java
+- Python(Commonly used in Deep Learning/Computer Vision/Crawlers, etc.)
 
-## 目前開發專案
-- (科展) - 泥火山濕度對角度的影響分析及預測
+## Developed Projects
+- RobotKeeper - a Mini Desktop Robot HouseKeeper
+- 應用深度學習建構泥火山泥裂成分與裂縫特徵模型
 - 路竹高中校內資訊領域學習資源平台
 - 南區資訊領域學習資源平台
 - 高雄市立路竹高級中學.資訊研究社.OnlineJudge;
@@ -23,6 +21,10 @@
 - 多頻率無線攝影機指示燈(導播機->攝影機指示燈)
 
 ## 個人經歷  
+
+- 2022 高雄市教育局校務網站 後門植入(CVE-2021-44228)
+- 2021 10th Asia Pacific Conference of Young Scientists Taiwan Represent / Computer Science 3rd place
+- 2021 高雄市中小學科學展覽會 第二名
 - [2020 SITCON Hour of Code 台南場](https://flic.kr/s/aHsmTkAPFt) 助教
 - 2020 路竹高中資訊研究社 社長/發起人/講師
 - 2020 路竹高中校內資訊競賽 第一名
